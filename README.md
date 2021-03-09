@@ -1,2 +1,2 @@
-# Toggle_Burguer_Menu_Python_PySide2
+# Toggle_Burguer_Menu_Python_PySide2 PYQT5 QTDesigner
 
